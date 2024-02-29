@@ -1,0 +1,216 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.log-in-page-vjh {
+  box-sizing: border-box;
+  padding-bottom: 6.9rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/sigmund-etgmffzrogc-unsplash-1-bg-WpX.png');
+  background-color: #ffffff;
+}
+.log-in-page-vjh .auto-group-8zwh-rtF {
+  margin-bottom: 4rem;
+  box-sizing: border-box;
+  padding: 2rem 108.3rem 0.6rem 1.4rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: rgba(217, 217, 217, 0.25);
+  flex-shrink: 0;
+}
+.log-in-page-vjh .auto-group-8zwh-rtF .book-1-Atw {
+  margin-right: 1.2rem;
+  width: 9.6rem;
+  height: 8.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.log-in-page-vjh .auto-group-8zwh-rtF .study-together-JkF {
+  margin-bottom: 1.3rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Adamina, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.log-in-page-vjh .auto-group-s5hq-Bp3 {
+  margin: 0rem 36.3rem 0rem 38.5rem;
+  box-sizing: border-box;
+  padding: 1.8rem 8.8rem 3.7rem 5.1rem;
+  width: calc(100% - 74.8rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem rgba(0, 0, 0, 0.75);
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(217, 217, 217, 0.75);
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.log-in-page-vjh .auto-group-s5hq-Bp3 .login-3rF {
+  margin: 0rem 0rem 2.5rem 0.8rem;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.215;
+  color: #000000;
+  font-family: Average, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.log-in-page-vjh .auto-group-s5hq-Bp3 .email-kEs {
+  margin: 0rem 45.6rem 1.9rem 0rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.215;
+  color: #000000;
+  font-family: Average, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.log-in-page-vjh .auto-group-s5hq-Bp3 .rectangle-7-rYo {
+  margin: 0rem 0rem 3.4rem 0.7rem;
+  width: 54.6rem;
+  height: 6.1rem;
+  border: solid 0.1rem rgba(0, 0, 0, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(217, 217, 217, 0.6000000238);
+  flex-shrink: 0;
+}
+.log-in-page-vjh .auto-group-s5hq-Bp3 .password-Xew {
+  margin: 0rem 41.3rem 1.9rem 0rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.215;
+  color: #000000;
+  font-family: Average, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.log-in-page-vjh .auto-group-s5hq-Bp3 .rectangle-8-SG7 {
+  margin: 0rem 0rem 3.1rem 0.7rem;
+  width: 54.6rem;
+  height: 6.1rem;
+  border: solid 0.1rem rgba(0, 0, 0, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(217, 217, 217, 0.6000000238);
+  flex-shrink: 0;
+}
+.log-in-page-vjh .auto-group-s5hq-Bp3 .auto-group-8k3h-XYT {
+  margin: 0rem 24.05rem 3.6rem 0.7rem;
+  width: calc(100% - 24.75rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.log-in-page-vjh .auto-group-s5hq-Bp3 .auto-group-8k3h-XYT .auto-group-uh3d-42b {
+  margin: 0rem 3.1rem 0.3rem 0rem;
+  width: 3.15rem;
+  height: 4.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.log-in-page-vjh .auto-group-s5hq-Bp3 .auto-group-8k3h-XYT .auto-group-uh3d-42b .rectangle-9-ArK {
+  width: 3rem;
+  height: 3rem;
+  position: absolute;
+  left: 0;
+  top: 1rem;
+  background-color: #ffffff;
+}
+.log-in-page-vjh .auto-group-s5hq-Bp3 .auto-group-8k3h-XYT .auto-group-uh3d-42b .item--u3D {
+  width: 3.1rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 0.05rem;
+  top: 0;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.215;
+  color: #000000;
+  font-family: Average, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.log-in-page-vjh .auto-group-s5hq-Bp3 .auto-group-8k3h-XYT .remember-me--aQF {
+  margin-top: 0.3rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.215;
+  color: #000000;
+  font-family: Average, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.log-in-page-vjh .auto-group-s5hq-Bp3 .auto-group-rprw-Vn7 {
+  margin: 0rem 8.2rem 1.1rem 8.9rem;
+  width: calc(100% - 17.1rem);
+  height: 8.5rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.215;
+  color: #000000;
+  font-family: Average, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(98, 139, 46, 0.5);
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.log-in-page-vjh .auto-group-s5hq-Bp3 .forget-password--LXq {
+  margin: 0rem 0rem 5.6rem 0.7rem;
+  text-align: center;
+  cursor: pointer;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.215;
+  color: #000000;
+  font-family: Average, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.log-in-page-vjh .auto-group-s5hq-Bp3 .dont-have-an-account-sign-up-Sqm {
+  margin-left: 1.4rem;
+  max-width: 32.8rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.215;
+  color: #000000;
+  font-family: Average, 'Source Sans Pro';
+  flex-shrink: 0;
+}

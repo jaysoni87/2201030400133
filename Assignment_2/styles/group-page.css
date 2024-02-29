@@ -1,0 +1,347 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.group-page-1kB {
+  box-sizing: border-box;
+  padding-bottom: 10.2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/sigmund-etgmffzrogc-unsplash-1-bg-uTM.png');
+  background-color: #ffffff;
+}
+.group-page-1kB .auto-group-b3ex-Yk7 {
+  margin-bottom: 6.9rem;
+  box-sizing: border-box;
+  padding: 2rem 4.2rem 0.6rem 1.4rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: rgba(217, 217, 217, 0.25);
+  flex-shrink: 0;
+}
+.group-page-1kB .auto-group-b3ex-Yk7 .book-1-4Cf {
+  margin-right: 1.2rem;
+  width: 9.6rem;
+  height: 8.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-page-1kB .auto-group-b3ex-Yk7 .study-together-ago {
+  margin: 0rem 54.5rem 1.3rem 0rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Adamina, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-page-1kB .auto-group-b3ex-Yk7 .home-HbD {
+  margin: 0.1rem 4.4rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Adamina, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-page-1kB .auto-group-b3ex-Yk7 .contact-us-Pu9 {
+  margin: 0.3rem 4.1rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Adamina, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-page-1kB .auto-group-b3ex-Yk7 .about-us-huq {
+  margin-top: 0.3rem;
+  cursor: pointer;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Adamina, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-page-1kB .auto-group-7c5m-ohy {
+  margin: 0rem 17rem 0rem 14.8rem;
+  width: calc(100% - 31.8rem);
+  height: 74.2rem;
+  position: relative;
+  border: solid 0.1rem rgba(0, 0, 0, 0.6000000238);
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(217, 217, 217, 0.6000000238);
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.group-page-1kB .auto-group-7c5m-ohy .group-details--Vqh {
+  width: 28.8rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 3.1rem;
+  top: 2.8rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Adamina, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-page-1kB .auto-group-7c5m-ohy .create-a-group--PgB {
+  width: 31.2rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 3.1rem;
+  top: 26.3rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Adamina, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-page-1kB .auto-group-7c5m-ohy .auto-group-oqx1-64o {
+  width: 81.2rem;
+  height: 6.5rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 12.2rem;
+  display: flex;
+  align-items: center;
+}
+.group-page-1kB .auto-group-7c5m-ohy .auto-group-oqx1-64o .auto-group-kxlj-zvs {
+  margin-right: 11.4rem;
+  width: 34.9rem;
+  height: 100%;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Adamina, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem rgba(0, 0, 0, 0.75);
+  box-sizing: border-box;
+  background-color: rgba(217, 217, 217, 0.75);
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.group-page-1kB .auto-group-7c5m-ohy .auto-group-oqx1-64o .auto-group-nr87-qgb {
+  width: 34.9rem;
+  height: 100%;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Adamina, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem rgba(0, 0, 0, 0.75);
+  box-sizing: border-box;
+  background-color: rgba(217, 217, 217, 0.75);
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.group-page-1kB .auto-group-7c5m-ohy .auto-group-xhex-WGw {
+  width: 81.2rem;
+  height: 6.5rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 33.9rem;
+  display: flex;
+  align-items: center;
+}
+.group-page-1kB .auto-group-7c5m-ohy .auto-group-xhex-WGw .auto-group-dm8b-dsM {
+  margin-right: 11.4rem;
+  width: 34.9rem;
+  height: 100%;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Adamina, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem rgba(0, 0, 0, 0.75);
+  box-sizing: border-box;
+  background-color: rgba(217, 217, 217, 0.75);
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.group-page-1kB .auto-group-7c5m-ohy .auto-group-xhex-WGw .auto-group-okfu-6kw {
+  width: 34.9rem;
+  height: 100%;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Adamina, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem rgba(0, 0, 0, 0.75);
+  box-sizing: border-box;
+  background-color: rgba(217, 217, 217, 0.75);
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.group-page-1kB .auto-group-7c5m-ohy .auto-group-fey5-ms5 {
+  width: 81.2rem;
+  height: 6.5rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 44.3rem;
+  display: flex;
+  align-items: center;
+}
+.group-page-1kB .auto-group-7c5m-ohy .auto-group-fey5-ms5 .auto-group-pnzv-uTV {
+  margin-right: 11.4rem;
+  width: 34.9rem;
+  height: 100%;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Adamina, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem rgba(0, 0, 0, 0.75);
+  box-sizing: border-box;
+  background-color: rgba(217, 217, 217, 0.75);
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.group-page-1kB .auto-group-7c5m-ohy .auto-group-fey5-ms5 .auto-group-3xd5-yTM {
+  width: 34.9rem;
+  height: 100%;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Adamina, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem rgba(0, 0, 0, 0.75);
+  box-sizing: border-box;
+  background-color: rgba(217, 217, 217, 0.75);
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.group-page-1kB .auto-group-7c5m-ohy .auto-group-2erv-eZV {
+  width: 51.8rem;
+  height: 6.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 28.6rem;
+  top: 63.5rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Adamina, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem rgba(0, 0, 0, 0.75);
+  box-sizing: border-box;
+  background-color: rgba(217, 217, 217, 0.75);
+  border-radius: 5rem;
+}
+.group-page-1kB .auto-group-7c5m-ohy .auto-group-vns9-iJT {
+  width: 112rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 20rem;
+}
+.group-page-1kB .auto-group-7c5m-ohy .auto-group-vns9-iJT .line-1-FJP {
+  width: 112rem;
+  height: 0;
+  position: absolute;
+  left: 0;
+  top: 2.35rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-page-1kB .auto-group-7c5m-ohy .auto-group-vns9-iJT .or-aLf {
+  width: 5.2rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 49.4rem;
+  top: 0;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Adamina, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-page-1kB .auto-group-7c5m-ohy .auto-group-vj23-t6T {
+  width: 112rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 0;
+  top: 54.8rem;
+}
+.group-page-1kB .auto-group-7c5m-ohy .auto-group-vj23-t6T .line-2-co9 {
+  width: 112rem;
+  height: 0;
+  position: absolute;
+  left: 0;
+  top: 2.35rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-page-1kB .auto-group-7c5m-ohy .auto-group-vj23-t6T .or-ZiP {
+  width: 5.2rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 49.4rem;
+  top: 0;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Adamina, 'Source Sans Pro';
+  white-space: nowrap;
+}

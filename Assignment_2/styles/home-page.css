@@ -1,0 +1,208 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.home-page-s99 {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/sigmund-etgmffzrogc-unsplash-1-bg-sVy.png');
+  background-color: #ffffff;
+}
+.home-page-s99 .auto-group-r9dz-RAf {
+  box-sizing: border-box;
+  padding: 2rem 4.2rem 0.6rem 1.4rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: rgba(217, 217, 217, 0.25);
+  flex-shrink: 0;
+}
+.home-page-s99 .auto-group-r9dz-RAf .book-1-96f {
+  margin-right: 1.2rem;
+  width: 9.6rem;
+  height: 8.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-s99 .auto-group-r9dz-RAf .study-together-Gwy {
+  margin: 0rem 54.5rem 1.3rem 0rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Adamina, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-s99 .auto-group-r9dz-RAf .home-P11 {
+  margin: 0.1rem 4.9rem 0rem 0rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Adamina, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-s99 .auto-group-r9dz-RAf .contact-us-i3H {
+  margin: 0.3rem 4.4rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Adamina, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-s99 .auto-group-r9dz-RAf .about-us-1o5 {
+  margin-top: 0.3rem;
+  cursor: pointer;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Adamina, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-s99 .auto-group-ajph-jDH {
+  box-sizing: border-box;
+  padding: 3.7rem 4.1rem 13.9rem 22.5rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-page-s99 .auto-group-ajph-jDH .auto-group-vef1-T9H {
+  margin: 0rem 0rem 14.1rem 111.2rem;
+  width: 6.2rem;
+  height: 6rem;
+  cursor: pointer;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.38;
+  color: #000000;
+  font-family: Alata, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-1.png');
+  flex-shrink: 0;
+}
+.home-page-s99 .auto-group-ajph-jDH .auto-group-xyyh-iL7 {
+  margin: 0rem 19.9rem 2.5rem 0rem;
+  box-sizing: border-box;
+  padding: 2.5rem 8.15rem 1.1rem 8.35rem;
+  width: 97.5rem;
+  height: 27.8rem;
+  background-color: rgba(49, 65, 41, 0.400000006);
+  border-radius: 5.5rem;
+  flex-shrink: 0;
+}
+.home-page-s99 .auto-group-ajph-jDH .auto-group-xyyh-iL7 .welcome-to-your-virtual-study-group-cgP {
+  max-width: 81rem;
+  text-align: center;
+  font-size: 9.6rem;
+  font-weight: 600;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Abhaya Libre SemiBold, 'Source Sans Pro';
+}
+.home-page-s99 .auto-group-ajph-jDH .auto-group-n8bh-7d9 {
+  margin: 0rem 20.05rem 4.1rem 0rem;
+  width: 88.55rem;
+  height: 11.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-page-s99 .auto-group-ajph-jDH .auto-group-n8bh-7d9 .rectangle-3-3Fu {
+  opacity: 0.25;
+  width: 88rem;
+  height: 11.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(133, 134, 61, 0.25);
+}
+.home-page-s99 .auto-group-ajph-jDH .auto-group-n8bh-7d9 .study-together-is-the-new-way-to-connect-and-focus-with-other-students-from-all-over-the-world-ZV9 {
+  width: 88.3rem;
+  height: 10.1rem;
+  position: absolute;
+  left: 0.25rem;
+  top: 1.4rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Abhaya Libre SemiBold, 'Source Sans Pro';
+}
+.home-page-s99 .auto-group-ajph-jDH .auto-group-euqf-QEs {
+  margin: 0rem 44.7rem 0rem 20.2rem;
+  width: calc(100% - 64.9rem);
+  height: 7.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-s99 .auto-group-ajph-jDH .auto-group-euqf-QEs .auto-group-rcmm-Woh {
+  margin-right: 6rem;
+  width: 23.3rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.38;
+  color: #000000;
+  font-family: Alata, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 0.6000000238);
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.home-page-s99 .auto-group-ajph-jDH .auto-group-euqf-QEs .auto-group-yay5-zTy {
+  width: 23.2rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.38;
+  color: #000000;
+  font-family: Alata, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 0.6000000238);
+  border-radius: 5rem;
+  flex-shrink: 0;
+}

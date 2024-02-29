@@ -1,0 +1,196 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.contact-us-page-mU3 {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/sigmund-etgmffzrogc-unsplash-1-bg-mN7.png');
+  background-color: #ffffff;
+}
+.contact-us-page-mU3 .auto-group-wzns-i8P {
+  margin-bottom: 8.5rem;
+  box-sizing: border-box;
+  padding: 2rem 4.2rem 0.6rem 1.4rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: rgba(217, 217, 217, 0.25);
+  flex-shrink: 0;
+}
+.contact-us-page-mU3 .auto-group-wzns-i8P .book-1-2es {
+  margin-right: 1.2rem;
+  width: 9.6rem;
+  height: 8.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.contact-us-page-mU3 .auto-group-wzns-i8P .study-together-xoR {
+  margin: 0rem 54.5rem 1.3rem 0rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Adamina, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-us-page-mU3 .auto-group-wzns-i8P .home-GZD {
+  margin: 0.1rem 4.4rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Adamina, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-us-page-mU3 .auto-group-wzns-i8P .contact-us-nXZ {
+  margin: 0.3rem 4.1rem 0rem 0rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Adamina, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-us-page-mU3 .auto-group-wzns-i8P .about-us-7Zq {
+  margin-top: 0.3rem;
+  cursor: pointer;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Adamina, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-us-page-mU3 .auto-group-ptnf-S6K {
+  margin: 0rem 8.4rem 9.5rem 6.2rem;
+  box-sizing: border-box;
+  padding: 3.8rem 3.6rem 0.1rem 2.7rem;
+  width: calc(100% - 14.6rem);
+  border: solid 0.1rem rgba(0, 0, 0, 0.6000000238);
+  background-color: rgba(217, 217, 217, 0.6000000238);
+  border-radius: 4.5rem;
+  flex-shrink: 0;
+}
+.contact-us-page-mU3 .auto-group-ptnf-S6K .welcome-to-study-together-where-global-collaboration-meets-education-were-excited-to-have-you-here-on-our-contact-us-page-at-the-heart-of-our-community-is-a-commitment-to-connecting-students-worldwide-for-collaborative-learning-whether-you-have-questions-success-stories-to-share-or-innovative-ideas-this-is-the-space-to-reach-out-explore-our-interactive-map-connect-with-team-members-and-use-the-contact-form-to-initiate-a-conversation-your-input-is-invaluable-and-were-eager-to-build-a-thriving-community-fueled-by-shared-knowledge-and-a-passion-for-learning-join-us-on-this-exciting-journey-of-connection-education-and-growth-8zj {
+  max-width: 123.1rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.325;
+  color: #000000;
+  font-family: Abyssinica SIL, 'Source Sans Pro';
+}
+.contact-us-page-mU3 .auto-group-swxk-Zif {
+  box-sizing: border-box;
+  padding: 2.6rem 8.7rem 2.6rem 9.6rem;
+  width: 100%;
+  height: 31.2rem;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.1rem rgba(0, 0, 0, 0.75);
+  background-color: rgba(177, 161, 161, 0.75);
+  border-top: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.contact-us-page-mU3 .auto-group-swxk-Zif .auto-group-rq27-gYP {
+  margin-right: 10.2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.contact-us-page-mU3 .auto-group-swxk-Zif .auto-group-rq27-gYP .address-E47 {
+  margin: 0rem 0rem 3.2rem 2.5rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2625;
+  color: #000000;
+  font-family: Amethysta, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-us-page-mU3 .auto-group-swxk-Zif .auto-group-rq27-gYP .ahmedabad-gujrat-india-wz7 {
+  max-width: 26.6rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2625;
+  color: #000000;
+  font-family: Amethysta, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.contact-us-page-mU3 .auto-group-swxk-Zif .auto-group-amgt-sMy {
+  margin: 0.3rem 8.7rem 0rem 0rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.contact-us-page-mU3 .auto-group-swxk-Zif .auto-group-amgt-sMy .phone-cKZ {
+  margin: 0rem 1.1rem 1.9rem 0rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2625;
+  color: #000000;
+  font-family: Amethysta, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-us-page-mU3 .auto-group-swxk-Zif .auto-group-amgt-sMy .team-1234567890-service-1234567890-LFZ {
+  max-width: 29.3rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2625;
+  color: #000000;
+  font-family: Amethysta, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.contact-us-page-mU3 .auto-group-swxk-Zif .auto-group-37vr-FdR {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.contact-us-page-mU3 .auto-group-swxk-Zif .auto-group-37vr-FdR .email-oQ3 {
+  margin: 0rem 0.7rem 1.2rem 0rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2625;
+  color: #000000;
+  font-family: Amethysta, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-us-page-mU3 .auto-group-swxk-Zif .auto-group-37vr-FdR .studytogethergmailcom-team-vsgteamgmailcom-vzT {
+  max-width: 35.3rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2625;
+  color: #000000;
+  font-family: Amethysta, 'Source Sans Pro';
+  flex-shrink: 0;
+}
